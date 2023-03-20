@@ -9,7 +9,7 @@ By acquiring the revenue and expenses for both Tech and Non-Tech Fortune 100 com
 1. [Pre-Processing](#pre-processing)
 2. [Analysis](#analysis)
 3. [Modeling](#modeling)
-4, [Working Directory](#working-directory)
+4. [Working Directory](#working-directory)
 5. [References](#references)
 
 
