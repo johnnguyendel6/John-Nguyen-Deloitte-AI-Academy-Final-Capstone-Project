@@ -1,0 +1,101 @@
+Rank,Name,Revenue,Expenses,Profit,Group,Source
+1,Walmart,"$559,151 ","$545,641 ","$13,510 ",No,
+2,Amazon,"$386,064 ","$364,733 ","$21,331 ",Yes,"https://www.investopedia.com/news/consumer-stocks-bump-techs-investors-favorite-sector/#:~:text=While%20often%20treated%20as%20a,core%20business%20in%20online%20retailing."
+3,Apple,"$274,515 ","$217,104 ","$57,411 ",Yes,
+4,CVS Health,"$268,706 ","$261,527 ","$7,179 ",No,
+5,UnitedHealth Group,"$257,141 ","$241,738 ","$15,403 ",No,
+6,Berkshire Hathaway,"$245,510 ","$202,989 ","$42,521 ",No,
+7,McKesson,"$231,051 ","$230,151 ",$900 ,Yes,Healthcare Technology
+8,AmerisourceBergen,"$189,893.90 ","$193,303 ","($3,408.70)",No,
+9,Alphabet,"$182,527 ","$142,258 ","$40,269 ",Yes,https://www.forbes.com/companies/alphabet/
+10,Exxon Mobil,"$181,502 ","$203,942 ","($22,440)",No,
+11,AT&T,"$171,760 ","$176,936 ","($5,176)",Yes,"https://medium.com/bsg-sms/what-is-the-difference-between-it-and-telecommunications-c5d250436b3a#:~:text=Telecommunication%20technologies%20or%20Information%20and,%2C%20satellite%20communication%2C%20etc)."
+12,Costco Wholesale,"$166,761 ","$162,759 ","$4,002 ",No,
+13,Cigna,"$160,401 ","$151,943 ","$8,458 ",No,
+14,Cardinal Health,"$152,922 ","$156,618 ","($3,696)",No,
+15,Microsoft,"$143,015 ","$98,734 ","$44,281 ",Yes,
+16,Walgreens Boots Alliance,"$139,537 ","$139,081 ",$456 ,No,
+17,Kroger,"$132,498 ","$129,913 ","$2,585 ",No,
+18,Home Depot,"$132,110 ","$119,244 ","$12,866 ",No,
+19,JPMorgan Chase,"$129,503 ","$100,372 ","$29,131 ",No,
+20,Verizon Communications,"$128,292 ","$110,491 ","$17,801 ",Yes,Telecommunications is considered tech
+21,Ford Motor,"$127,144 ","$128,423 ","($1,279)",No,
+22,General Motors,"$122,485 ","$116,058 ","$6,427 ",No,
+23,Anthem,"$121,867 ","$117,295 ","$4,572 ",No,
+24,Centene,"$111,115 ","$109,307 ","$1,808 ",No,https://www.centene.com/
+25,Fannie Mae,"$106,437 ","$94,632 ","$11,805 ",No,
+26,Comcast,"$103,564 ","$93,030 ","$10,534 ",Yes,Telecommunications is considered tech
+27,Chevron,"$94,692 ","$100,235 ","($5,543)",No,
+28,Dell Technologies,"$94,224 ","$90,974 ","$3,250 ",Yes,
+29,Bank of America,"$93,753 ","$75,859 ","$17,894 ",No,
+30,Target,"$93,561 ","$89,193 ","$4,368 ",No,
+31,Lowe's,"$89,597 ","$83,762 ","$5,835 ",No,
+32,Marathon Petroleum,"$88,952 ","$98,778 ","($9,826)",No,
+33,Citigroup,"$88,839 ","$77,792 ","$11,047 ",No,
+34,Meta Platforms,"$85,965 ","$56,819 ","$29,146 ",Yes,
+35,United Parcel Service,"$84,628 ","$83,285 ","$1,343 ",No,
+36,Johnson & Johnson,"$82,584 ","$67,870 ","$14,714 ",No,
+37,Wells Fargo,"$80,303 ","$77,002 ","$3,301 ",No,
+38,General Electric,"$79,619 ","$73,915 ","$5,704 ",Yes,
+39,State Farm Insurance,"$78,898 ","$75,159 ","$3,738.90 ",No,
+40,Intel,"$77,867 ","$56,968 ","$20,899 ",Yes,
+41,Humana,"$77,155 ","$73,788 ","$3,367 ",No,
+42,IBM,"$73,620 ","$68,030 ","$5,590 ",Yes,
+43,Procter & Gamble,"$70,950 ","$57,923 ","$13,027 ",No,
+44,PepsiCo,"$70,372 ","$63,252 ","$7,120 ",No,
+45,FedEx,"$69,217 ","$67,931 ","$1,286 ",No,
+46,MetLife,"$67,842 ","$62,435 ","$5,407 ",No,
+47,Freddie Mac,"$66,228 ","$58,902 ","$7,326 ",No,
+48,Phillips 66,"$65,494 ","$69,469 ","($3,975)",No,
+49,Lockheed Martin,"$65,398 ","$58,565 ","$6,833 ",Yes,
+50,Walt Disney,"$65,388 ","$68,252 ","($2,864)",No,
+51,Archer Daniels Midland (ADM),"$64,355 ","$62,583 ","$1,772 ",No,Nutrition
+52,Albertsons,"$62,455.10 ","$61,989 ",$466.40 ,No,https://albertsonscompanies.com/home/default.aspx
+53,Valero Energy,"$60,115 ","$61,536 ","($1,421)",No,
+54,Boeing,"$58,158 ","$70,031 ","($11,873)",Yes,"Despite manufacturing planes, they focus on tech hardware and tech advancements"
+55,Prudential Financial,"$57,033 ","$57,407 ",($374),No,
+56,HP,"$56,639 ","$53,795 ","$2,844 ",Yes,
+57,Raytheon Technologies,"$56,587 ","$60,106 ","($3,519)",Yes,
+58,StoneX,"$54,139.60 ","$53,970 ",$169.60 ,No,Finance
+59,Goldman Sachs Group,"$53,498 ","$44,039 ","$9,459 ",No,
+60,Sysco,"$52,893.30 ","$52,678 ",$215.50 ,No,
+61,Morgan Stanley,"$52,047 ","$41,051 ","$10,996 ",No,
+62,HCA Healthcare,"$51,533 ","$47,779 ","$3,754 ",No,
+63,Cisco Systems,"$49,301 ","$38,087 ","$11,214 ",Yes,
+64,Charter Communications,"$48,097 ","$44,875 ","$3,222 ",Yes,https://www.spectrum.com/
+65,Merck,"$47,994 ","$40,927 ","$7,067 ",No,
+66,Best Buy,"$47,262 ","$45,464 ","$1,798 ",No,
+67,New York Life Insurance,"$46,712.40 ","$47,535 ",($822.30),No,
+68,AbbVie,"$45,804 ","$41,188 ","$4,616 ",No,https://www.abbvie.com/
+69,Publix Super Markets,"$45,204 ","$41,232 ","$3,971.80 ",No,https://www.publix.com/
+70,Allstate,"$44,791 ","$39,215 ","$5,576 ",No,
+71,Liberty Mutual Insurance Group,"$43,796 ","$43,038 ",$758 ,No,
+72,AIG,"$43,736 ","$49,680 ","($5,944)",No,
+73,Tyson Foods,"$43,185 ","$41,124 ","$2,061 ",No,
+74,Progressive,"$42,658.10 ","$36,954 ","$5,704.60 ",No,
+75,Bristol-Myers Squibb,"$42,518 ","$51,533 ","($9,015)",No,
+76,Nationwide,"$41,929.80 ","$42,068 ",($138.40),No,
+77,Pfizer,"$41,908 ","$32,292 ","$9,616 ",No,
+78,Caterpillar,"$41,748 ","$38,750 ","$2,998 ",No,
+79,TIAA,"$41,619.30 ","$41,061 ",$558.10 ,No,
+80,Oracle,"$39,068 ","$28,933 ","$10,135 ",Yes,
+81,Energy Transfer,"$38,954 ","$39,602 ",($648),No,
+82,Dow,"$38,542 ","$37,317 ","$1,225 ",No,
+83,American Express,"$38,185 ","$35,050 ","$3,135 ",No,
+84,General Dynamics,"$37,925 ","$34,758 ","$3,167 ",No,https://www.gd.com/
+85,Nike,"$37,403 ","$34,864 ","$2,539 ",No,
+86,Northrop Grumman,"$36,799 ","$33,610 ","$3,189 ",Yes,Defense Tech
+87,USAA,"$36,296.20 ","$32,389 ","$3,906.90 ",No,
+88,Deere,"$35,540 ","$32,789 ","$2,751 ",No,
+89,Abbott Laboratories,"$34,608 ","$30,113 ","$4,495 ",No,
+90,Northwestern Mutual,"$33,782.10 ","$33,357 ",$425 ,No,
+91,Dollar General,"$33,746.80 ","$31,092 ","$2,655.10 ",No,
+92,Exelon,"$33,039 ","$31,076 ","$1,963 ",No,
+93,Coca-Cola,"$33,014 ","$25,267 ","$7,747 ",No,
+94,Honeywell International,"$32,637 ","$27,858 ","$4,779 ",Yes,"Honeywell International Inc. is an American publicly traded, multinational conglomerate corporation headquartered in Charlotte, North Carolina. It primarily operates in four areas of business: aerospace, building technologies, performance materials and technologies, and safety and productivity solutions."
+95,Thermo Fisher Scientific,"$32,218 ","$25,843 ","$6,375 ",Yes,https://www.thermofisher.com/us/en/home.html
+96,3M,"$32,184 ","$26,800 ","$5,384 ",No,
+97,TJX,"$32,137 ","$32,047 ",$90.50 ,No,https://www.tjx.com/
+98,Travelers,"$31,981 ","$29,284 ","$2,697 ",No,
+99,Capital One Financial,"$31,643 ","$28,929 ","$2,714 ",No,
+100,Tesla,"$31,536 ","$30,815 ",$721 ,Yes,"Despite manufacturing cars, they focus on the programing and tech compnent of teslas"
