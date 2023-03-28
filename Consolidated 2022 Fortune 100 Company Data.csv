@@ -1,4 +1,4 @@
-Rank,Name,Revenue,Expenses ,Profit,Tech,Source
+ Rank , Name , Revenue , Expenses , Profit , Tech , Source 
 1,Walmart,"$572,754 ","$559,081 ","$13,673 ",No,
 2,Amazon,"$469,822 ","$436,458 ","$33,364 ",Yes,"https://www.investopedia.com/news/consumer-stocks-bump-techs-investors-favorite-sector/#:~:text=While%20often%20treated%20as%20a,core%20business%20in%20online%20retailing."
 3,Apple,"$365,817 ","$271,137 ","$94,680 ",Yes,
