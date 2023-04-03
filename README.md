@@ -4,6 +4,19 @@
 ### Project Summary: 
 By acquiring the revenue and expenses for both Tech and Non-Tech Fortune 100 companies, logistic regression can be used to predict the health (profit margin) of a sector for 2023. In this file it will highlight the three major steps for implementing this type of machine learning algorithm as well as hightlight the basic Data Science techniques necessary to take for a valid and repeatable solution. This project matters because consulting firms need to adjust the way they approach their sales/pursuit efforts in the tech and non-tech sectors during a volatile market.
 
+<table width = "100%">
+    <tr>
+        <td>
+            <img src="C:\Users\johnnguyen6\Documents\John-Nguyen-Deloitte-AI-Academy-Final-Capstone-Project\Capture.PNG"/> 
+        </td>
+        <td>
+            <img src=""/>
+        </td>
+        <td>
+            <img src=""/>
+        </td>
+    </tr>
+</table>
 
 ### Table Of Contents
 1. [Pre-Processing](#pre-processing)
