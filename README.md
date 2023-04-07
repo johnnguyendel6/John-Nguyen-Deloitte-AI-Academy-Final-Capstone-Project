@@ -7,16 +7,16 @@ By acquiring the revenue and expenses for both Tech and Non-Tech Fortune 100 com
 <table width = "100%">
     <tr>
         <td>
-            <img src="Capture.PNG"/> 
+            <img src="\John-Nguyen-Deloitte-AI-Academy-Final-Capstone-Project\Images\Capture.PNG"/> 
         </td>
         <td>
-            <img src="Capture1.PNG"/>
+            <img src="\John-Nguyen-Deloitte-AI-Academy-Final-Capstone-Project\Images\Capture1.PNG"/>
         </td>
         <td>
-            <img src="Capture3.PNG"/>
+            <img src="\John-Nguyen-Deloitte-AI-Academy-Final-Capstone-Project\Images\Capture3.PNG"/>
         </td>
          <td>
-            <img src="Capture4.PNG"/>
+            <img src="\John-Nguyen-Deloitte-AI-Academy-Final-Capstone-Project\Images\Capture4.PNG"/>
         </td>
     </tr>
 </table>
@@ -30,33 +30,33 @@ By acquiring the revenue and expenses for both Tech and Non-Tech Fortune 100 com
 5. [References](#references)
 
 ### Pre-Processing
--Pull Fortune 1,000 Company Data in 2021 & 2022 
--Minimize the data set from 1,000 to 100
--Classify each company by Industry “Tech or Not”
+* Pull Fortune 1,000 Company Data in 2021 & 2022 
+* Minimize the data set from 1,000 to 100
+* Classify each company by Industry “Tech or Not”
 
 
 
 ### Analysis
--Wide distribution of revenue/expense against profit = varying and potentially unpredictable market for stable profit margins.
+* Wide distribution of revenue/expense against profit = varying and potentially unpredictable market for stable profit margins.
 
--When looking at total market value there is “OK” potential value.
+* When looking at total market value there is “OK” potential value.
 
--High precision & accuracyin the distribution of revenue/expense against profit = predictable market for stable profit margins.
+* High precision & accuracyin the distribution of revenue/expense against profit = predictable market for stable profit margins.
 
--When looking at total market value there is high potential value.
+* When looking at total market value there is high potential value.
 
--The R^2 score referenced in the each of the linear regression models showcases the coefficient of determination which is a statistical way of measuring how well a model can predict. It is rated out of 1(from 0-1) the closer it is to 1 the more accurate. Each of these Models when graphed had a calculated coefficent of 1.
+* The R^2 score referenced in the each of the linear regression models showcases the coefficient of determination which is a statistical way of measuring how well a model can predict. It is rated out of 1(from 0-1) the closer it is to 1 the more accurate. Each of these Models when graphed had a calculated coefficent of 1.
 
 
 
 ### Modeling
-Linear regression analysis is used to predict the value of a variable based on the relationship between input and output.
+* Linear regression analysis is used to predict the value of a variable based on the relationship between input and output.
 
-The linear regression model could be used to predict the either the rise or fall of profits in relation to revenue and expenses.
+* The linear regression model could be used to predict the either the rise or fall of profits in relation to revenue and expenses.
 
-We utilized linear regression because we’re working with 1 or more variables to predict an outcome.
+* We utilized linear regression because we’re working with 1 or more variables to predict an outcome.
 
-This model could be used for years beyond 2023 if you consider a similar economic environment.
+* This model could be used for years beyond 2023 if you consider a similar economic environment.
 
 
 
