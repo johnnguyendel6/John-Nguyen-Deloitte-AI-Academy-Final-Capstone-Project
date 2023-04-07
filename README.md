@@ -7,16 +7,16 @@ By acquiring the revenue and expenses for both Tech and Non-Tech Fortune 100 com
 <table width = "100%">
     <tr>
         <td>
-            <img src="\Images\Capture.PNG"/> 
+            <img src="Images/Capture.PNG"/> 
         </td>
         <td>
-            <img src="\Images\Capture1.PNG"/>
+            <img src="Images\Capture1.PNG"/>
         </td>
         <td>
-            <img src="\Images\Capture3.PNG"/>
+            <img src="Images\Capture3.PNG"/>
         </td>
          <td>
-            <img src="\Images\Capture4.PNG"/>
+            <img src="Images\Capture4.PNG"/>
         </td>
     </tr>
 </table>
