@@ -7,10 +7,10 @@ By acquiring the revenue and expenses for both Tech and Non-Tech Fortune 100 com
 <table width = "100%">
     <tr>
         <td>
-            <img src="Capture1.PNG"/> 
+            <img src="Capture.PNG"/> 
         </td>
         <td>
-            <img src="Capture2.PNG"/>
+            <img src="Capture1.PNG"/>
         </td>
         <td>
             <img src="Capture3.PNG"/>
@@ -30,15 +30,33 @@ By acquiring the revenue and expenses for both Tech and Non-Tech Fortune 100 com
 5. [References](#references)
 
 ### Pre-Processing
+-Pull Fortune 1,000 Company Data in 2021 & 2022 
+-Minimize the data set from 1,000 to 100
+-Classify each company by Industry “Tech or Not”
 
 
 
 ### Analysis
+-Wide distribution of revenue/expense against profit = varying and potentially unpredictable market for stable profit margins.
 
+-When looking at total market value there is “OK” potential value.
+
+-High precision & accuracyin the distribution of revenue/expense against profit = predictable market for stable profit margins.
+
+-When looking at total market value there is high potential value.
+
+-The R^2 score referenced in the each of the linear regression models showcases the coefficient of determination which is a statistical way of measuring how well a model can predict. It is rated out of 1(from 0-1) the closer it is to 1 the more accurate. Each of these Models when graphed had a calculated coefficent of 1.
 
 
 
 ### Modeling
+Linear regression analysis is used to predict the value of a variable based on the relationship between input and output.
+
+The linear regression model could be used to predict the either the rise or fall of profits in relation to revenue and expenses.
+
+We utilized linear regression because we’re working with 1 or more variables to predict an outcome.
+
+This model could be used for years beyond 2023 if you consider a similar economic environment.
 
 
 
@@ -49,8 +67,8 @@ By acquiring the revenue and expenses for both Tech and Non-Tech Fortune 100 com
 │   README.md    
 │
 └───Data(Pre-Processed)
-│   │   Fortune 1000 companies in 2021-2021.csv
-│   │   Fortune 1000 companies in 2022-2022.csv
+│   │   Non Consolidated 2021 Data_fortune 1000.csv
+│   │   Non Consolidated 2022 Data_fortune 1000.csv
 │   │   ...
 │   └───Processed data 
 │       │   Fortune 100 Company Data (2021).csv
@@ -59,7 +77,9 @@ By acquiring the revenue and expenses for both Tech and Non-Tech Fortune 100 com
 │   
 └───Images
 │   │   Capture.png
-│   │   file022.txt
+│   │   Capture1.png
+│   │   Capture3.png
+│   │   Capture4.png
 │   │   ...
 │   
 └───Notebooks
@@ -68,7 +88,13 @@ By acquiring the revenue and expenses for both Tech and Non-Tech Fortune 100 com
 │  
 └───.ipynb_checkpoints
     │   Project Notebook-checkpoint.ipynb
-    │   ...
+    │   ... 
+│  
+└───John's AI Academy Apprenticeship - Final Capstone Project Proposal Template.pdf
+│  
+└───John's Final Capstone Presentation.pptx
+│  
+└───John's Final Capstone Presentation.pdf
     
 ```
 
