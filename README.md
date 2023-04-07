@@ -7,16 +7,20 @@ By acquiring the revenue and expenses for both Tech and Non-Tech Fortune 100 com
 <table width = "100%">
     <tr>
         <td>
-            <img src="C:\Users\johnnguyen6\Documents\John-Nguyen-Deloitte-AI-Academy-Final-Capstone-Project\Capture.PNG"/> 
+            <img src="Capture1.PNG"/> 
         </td>
         <td>
-            <img src=""/>
+            <img src="Capture2.PNG"/>
         </td>
         <td>
-            <img src=""/>
+            <img src="Capture3.PNG"/>
+        </td>
+         <td>
+            <img src="Capture4.PNG"/>
         </td>
     </tr>
 </table>
+**Companies Revenue, Profit, & Expenses Source:** https://www.kaggle.com/datasets/ramjasmaurya/fortune-1000-companieslatest
 
 ### Table Of Contents
 1. [Pre-Processing](#pre-processing)
@@ -25,9 +29,16 @@ By acquiring the revenue and expenses for both Tech and Non-Tech Fortune 100 com
 4. [Working Directory](#working-directory)
 5. [References](#references)
 
+### Pre-Processing
 
 
 
+### Analysis
+
+
+
+
+### Modeling
 
 
 
@@ -35,8 +46,7 @@ By acquiring the revenue and expenses for both Tech and Non-Tech Fortune 100 com
 ### Working Directory
 ```
 .
-│   README.md
-│      
+│   README.md    
 │
 └───Data(Pre-Processed)
 │   │   Fortune 1000 companies in 2021-2021.csv
@@ -47,12 +57,24 @@ By acquiring the revenue and expenses for both Tech and Non-Tech Fortune 100 com
 │       │   Fortune 100 Company Data (2022).csv
 │       │   ...
 │   
-└───folder2
-    │   file021.txt
-    │   file022.txt
+└───Images
+│   │   Capture.png
+│   │   file022.txt
+│   │   ...
+│   
+└───Notebooks
+│   │   Project Notebook.ipynb
+│   │   ...
+│  
+└───.ipynb_checkpoints
+    │   Project Notebook-checkpoint.ipynb
+    │   ...
+    
 ```
 
-
 ### References
+https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
+https://stephenallwright.com/cross_val_score-sklearn/https://stephenallwright.com/cross_val_score-sklearn/
 Dataset:
 https://www.kaggle.com/datasets/ramjasmaurya/fortune-1000-companieslatest
+
